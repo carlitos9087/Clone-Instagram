@@ -1,5 +1,5 @@
-# Replicando login do instagram
-<p><br/></p>
+# Replicando o login do instagram
+
 Este projeto foi desenvolvido em html e css para fazer uma réplica do login do instagram e deixá-lo responsivo.
 
 <img src="./imagens/resultados.png" alt="instagram final" width=700x>
