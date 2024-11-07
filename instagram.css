@@ -34,7 +34,7 @@ body{
     height: 40%;
     overflow:visible;
     flex-direction: row;
-    
+    padding-top: 5%;
 }
 
 .instagram-phone figure.celulares img{
